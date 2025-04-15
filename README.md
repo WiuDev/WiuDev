@@ -46,3 +46,8 @@ Ao longo da minha jornada, o contato com infraestrutura me proporcionou uma vis√
   <a href="www.linkedin.com/in/wiudev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WiuDev/WiuDev/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
